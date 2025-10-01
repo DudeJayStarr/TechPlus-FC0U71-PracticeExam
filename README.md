@@ -39,13 +39,11 @@ This project is a Python/Tkinter practice exam simulator for the CompTIA Tech+ (
 Download and install Python 3.8+ (https://www.python.org/downloads/)
 .
 
-2. Download & Run
-
-Clone or download this repository.
+Clone or download this repository. "https://github.com/DudeJayStarr/TechPlus-FC0U71-PracticeExam/tree/main"
 
 Run the program:
 
-**python techplus_practice_gui.py**
+**TechPlus_Practice_Exam_app.py**
 
 
 That’s it! The GUI will launch and you can begin your practice exam.
